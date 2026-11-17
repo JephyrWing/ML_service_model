@@ -1,0 +1,131 @@
+first_feature,second_feature,abs_spearman,first_mean_abs_correlation,second_mean_abs_correlation,removed_feature
+Acetivibrio straminisolvens,Angelakisella massiliensis,1.0,0.11796591356064612,0.11796591356064612,Angelakisella massiliensis
+Acetivibrio thermocellus,Christensenella intestinihominis,1.0,0.11348881320639093,0.11348881320639093,Christensenella intestinihominis
+Acetivibrio thermocellus,Corynebacterium tuberculostearicum,1.0,0.11144144325998537,0.11144144325998537,Corynebacterium tuberculostearicum
+Acetivibrio thermocellus,Dryocola mayonis,1.0,0.10938459474901317,0.10938459474901314,Acetivibrio thermocellus
+Aestuariispira insulae,Finegoldia magna,1.0,0.07875388255960858,0.07875388255960857,Aestuariispira insulae
+Affinirhizobium straminoryzae,Anaeroplasma abactoclasticum,1.0,0.1764574423486417,0.1764574423486417,Anaeroplasma abactoclasticum
+Affinirhizobium straminoryzae,Anaerostipes faecalis,1.0,0.17453776272707677,0.17453776272707677,Anaerostipes faecalis
+Affinirhizobium straminoryzae,Anaerotignum propionicum,1.0,0.17260911263999051,0.17260911263999051,Anaerotignum propionicum
+Agromyces ulmi,Eubacterium ruminantium,1.0,0.07454732095056936,0.07454732095056936,Eubacterium ruminantium
+Agromyces ulmi,Streptococcus shenyangsis,1.0,0.07237489682134535,0.07237489682134535,Streptococcus shenyangsis
+Allobaculum stercoricanis DSM 13633,Anaerotignum lactatifermentans,1.0,0.09035225673219362,0.09035225673219362,Anaerotignum lactatifermentans
+Allobaculum stercoricanis DSM 13633,Eikenella corrodens,1.0,0.08820686111127898,0.08820686111127898,Eikenella corrodens
+Allobaculum stercoricanis DSM 13633,Fusobacterium hwasookii ChDC F128,1.0,0.0860513217758447,0.08605132177584465,Allobaculum stercoricanis DSM 13633
+Allofournierella massiliensis,Anaerosinus gibii,1.0,0.0860024968049183,0.0860024968049183,Anaerosinus gibii
+Allofournierella massiliensis,Lachnoclostridium phytofermentans,1.0,0.08383148135789914,0.08383148135789914,Lachnoclostridium phytofermentans
+Alloprevotella rava,Bifidobacterium colobi,1.0,0.12555127796519036,0.12555127796519036,Bifidobacterium colobi
+Alloprevotella rava,Cellulosilyticum lentocellum DSM 5427,1.0,0.12346428817513118,0.12346428817513118,Cellulosilyticum lentocellum DSM 5427
+Alloprevotella rava,Dakarella massiliensis,1.0,0.12136731278799037,0.12136731278799034,Alloprevotella rava
+Amaricoccus kaplicensis,Cellulomonas telluris,1.0,0.06690636932214142,0.06690636932214143,Cellulomonas telluris
+Amaricoccus kaplicensis,Serratia surfactantfaciens,1.0,0.06466335578685814,0.06466335578685813,Amaricoccus kaplicensis
+Aminipila butyrica,Claveliimonas monacensis,1.0,0.15923848791149778,0.15923848791149775,Aminipila butyrica
+Anaerococcus vaginalis ATCC 51170,Campylobacter concisus,1.0,0.10835776827883319,0.10835776827883319,Campylobacter concisus
+Anaerococcus vaginalis ATCC 51170,Dongia sedimenti,1.0,0.10619882825045268,0.10619882825045268,Dongia sedimenti
+Anaerococcus vaginalis ATCC 51170,Megasphaera jansseni,1.0,0.10402940793067224,0.10402940793067222,Anaerococcus vaginalis ATCC 51170
+Anaeromicropila herbilytica,Asticcacaulis biprosthecium,1.0,0.09718284614334052,0.09718284614334054,Asticcacaulis biprosthecium
+Anaeromicropila herbilytica,Brevundimonas naejangsanensis,1.0,0.09498085308515358,0.09498085308515358,Brevundimonas naejangsanensis
+Anaeromicropila herbilytica,Rothia nasisuis,1.0,0.09276809233475056,0.09276809233475056,Rothia nasisuis
+Anaerosacchariphilus polymeriproducens,Catenibacillus scindens,1.0,0.11691821300811432,0.11691821300811428,Anaerosacchariphilus polymeriproducens
+Aquamicrobium terrae,Bacteroides faecichinchillae JCM 17102,1.0,0.10985565317097994,0.10985565317097994,Bacteroides faecichinchillae JCM 17102
+Aquamicrobium terrae,Bacteroides ovatus,1.0,0.10766317941031733,0.10766317941031733,Bacteroides ovatus
+Aquamicrobium terrae,Cellulosilyticum ruminicola JCM 14822,1.0,0.10545987861873793,0.10545987861873793,Cellulosilyticum ruminicola JCM 14822
+Aquamicrobium terrae,Crassaminicella profunda,1.0,0.10324567039749723,0.10324567039749721,Aquamicrobium terrae
+Aquihabitans daechungensis,Faecalimonas hominis,1.0,0.10488795135565711,0.10488795135565711,Faecalimonas hominis
+Aquihabitans daechungensis,Lactobacillus crispatus,1.0,0.10266130446848216,0.10266130446848215,Aquihabitans daechungensis
+Arcobacter lacus,Desulfovibrio falkowii,1.0,0.11844466426165998,0.11844466426165998,Desulfovibrio falkowii
+Arcobacter lacus,Desulfovibrio porci,1.0,0.11624077592231416,0.11624077592231413,Arcobacter lacus
+Arcobacter nitrofigilis DSM 7299,Arthrobacter subterraneus,1.0,0.08875110138998653,0.08875110138998653,Arthrobacter subterraneus
+Arcobacter nitrofigilis DSM 7299,Bifidobacterium catenulatum subsp. puerorum,1.0,0.08646153129297648,0.08646153129297648,Bifidobacterium catenulatum subsp. puerorum
+Arcobacter nitrofigilis DSM 7299,Klebsiella planticola,1.0,0.08416042683779511,0.08416042683779511,Klebsiella planticola
+Arcobacter nitrofigilis DSM 7299,Mediterraneibacter butyricigenes,1.0,0.08184770064294104,0.08184770064294104,Mediterraneibacter butyricigenes
+Arcobacter nitrofigilis DSM 7299,Paracoccus hibiscisoli,1.0,0.0795232644420371,0.0795232644420371,Paracoccus hibiscisoli
+Asteroleplasma anaerobium,Campylobacter gracilis,1.0,0.10471690636155816,0.10471690636155816,Campylobacter gracilis
+Asteroleplasma anaerobium,Dialister pneumosintes,1.0,0.10243883233194383,0.10243883233194383,Dialister pneumosintes
+Asteroleplasma anaerobium,Lachnoanaerobaculum orale,1.0,0.10014913547564781,0.1001491354756478,Asteroleplasma anaerobium
+Bacteroides xylanisolvens XB1A,Entomohabitans teleogrylli,1.0,0.0829701338036154,0.08297013380361537,Bacteroides xylanisolvens XB1A
+Bilophila wadsworthia,Blautia liquoris,1.0,0.11544654326313726,0.11544654326313726,Blautia liquoris
+Bilophila wadsworthia,Christensenella timonensis,1.0,0.11317262692191142,0.11317262692191142,Christensenella timonensis
+Bilophila wadsworthia,Hominimerdicola alba 7 = DSM 20455,1.0,0.11088698936243183,0.11088698936243183,Hominimerdicola alba 7 = DSM 20455
+Bilophila wadsworthia,Lancefieldella parvula DSM 20469,1.0,0.10858953972254151,0.10858953972254148,Bilophila wadsworthia
+Caloramator mitchellensis,Clostridium fungisolvens,1.0,0.1379128805996723,0.1379128805996723,Clostridium fungisolvens
+Caloramator mitchellensis,Dialister succinatiphilus YIT 11850,1.0,0.13567369327655457,0.13567369327655457,Dialister succinatiphilus YIT 11850
+Caloramator mitchellensis,Enterococcus saigonensis,1.0,0.1334228435194623,0.1334228435194623,Enterococcus saigonensis
+Caloramator mitchellensis,Ercella succinigenes,1.0,0.13116023997773765,0.13116023997773765,Ercella succinigenes
+Caloramator mitchellensis,Herbinix luporum,1.0,0.12888579034417152,0.12888579034417152,Herbinix luporum
+Caloramator mitchellensis,Intestinimonas gabonensis,1.0,0.12659940134245018,0.12659940134245018,Intestinimonas gabonensis
+Caloramator mitchellensis,Lacrimispora brassicae,1.0,0.12430097871440401,0.12430097871440401,Lacrimispora brassicae
+Caloramator mitchellensis,Methanosphaera stadtmanae DSM 3091,1.0,0.12199042720705415,0.12199042720705415,Methanosphaera stadtmanae DSM 3091
+Caloramator mitchellensis,Parabacteroides goldsteinii DSM 19448 = WAL 12034,1.0,0.1196676505594538,0.1196676505594538,Parabacteroides goldsteinii DSM 19448 = WAL 12034
+Campylobacter ureolyticus DSM 20703,Oscillibacter valericigenes,1.0,0.15888518489100176,0.15888518489100176,Oscillibacter valericigenes
+Canicola haemoglobinophilus,Leyella stercorea DSM 18206,1.0,0.09260059146434554,0.09260059146434554,Leyella stercorea DSM 18206
+Catenibacillus scindens,Christensenella hongkongensis,1.0,0.12235531390018017,0.12235531390018017,Christensenella hongkongensis
+Catenibacillus scindens,Marasmitruncus massiliensis,1.0,0.12000867035445875,0.12000867035445875,Marasmitruncus massiliensis
+Catenibacillus scindens,Odoribacter splanchnicus,1.0,0.1176494442696182,0.1176494442696182,Odoribacter splanchnicus
+Clostridioides difficile ATCC 9689 = DSM 1296,Corynebacterium pilbarense,1.0,0.08344819235460162,0.08344819235460162,Corynebacterium pilbarense
+Clostridioides difficile ATCC 9689 = DSM 1296,Paraclostridium sordellii,1.0,0.0809777023070399,0.0809777023070399,Paraclostridium sordellii
+Clostridioides difficile ATCC 9689 = DSM 1296,Peptoclostridium acidaminophilum,1.0,0.07849385825922109,0.07849385825922109,Peptoclostridium acidaminophilum
+Clostridium simiarum,Megamonas funiformis YIT 11815,1.0,0.08562031545713081,0.08562031545713082,Megamonas funiformis YIT 11815
+Clostridium simiarum,Rothia endophytica,1.0,0.0831355880534817,0.08313558805348173,Rothia endophytica
+Clostridium simiarum,Rubrobacter bracarensis,1.0,0.08063731990103888,0.0806373199010389,Rubrobacter bracarensis
+Clostridium tertium,Corynebacterium argentoratense,1.0,0.08766123234720305,0.08766123234720305,Corynebacterium argentoratense
+Clostridium tertium,Thomasclavelia spiroformis,1.0,0.0851616740796611,0.08516167407966113,Thomasclavelia spiroformis
+Corynebacterium choanae,Leptotrichia buccalis,1.0,0.08350705396700168,0.08350705396700168,Leptotrichia buccalis
+Corynebacterium choanae,Mogibacterium neglectum,1.0,0.08098228001098792,0.08098228001098792,Mogibacterium neglectum
+Crassaminicella profunda,Cuneatibacter caecimuris,1.0,0.1095769686349332,0.1095769686349332,Cuneatibacter caecimuris
+Crassaminicella profunda,Mobilitalea sibirica,1.0,0.10711042284167814,0.10711042284167817,Mobilitalea sibirica
+Crassaminicella profunda,Parasporobacterium paucivorans,1.0,0.1046301740162384,0.10463017401623842,Parasporobacterium paucivorans
+Crassaminicella profunda,Phocaeicola coprocola DSM 17136,1.0,0.10213610764859561,0.10213610764859563,Phocaeicola coprocola DSM 17136
+Crassaminicella profunda,Rothia dentocariosa ATCC 17931,1.0,0.09962810794929003,0.09962810794929006,Rothia dentocariosa ATCC 17931
+Crassaminicella profunda,Sutterella wadsworthensis,1.0,0.09710605783150097,0.09710605783150099,Sutterella wadsworthensis
+Crassaminicella profunda,[Clostridium] fimetarium,1.0,0.09456983889282541,0.09456983889282543,[Clostridium] fimetarium
+Dakarella massiliensis,Magnetovibrio blakemorei,1.0,0.13563761689571477,0.13563761689571477,Magnetovibrio blakemorei
+Dakarella massiliensis,Monoglobus pectinilyticus,1.0,0.13319591524852756,0.13319591524852753,Dakarella massiliensis
+Desulfovibrio desulfuricans,Lawsonibacter asaccharolyticus,1.0,0.17774868743770192,0.17774868743770195,Lawsonibacter asaccharolyticus
+Desulfovibrio desulfuricans,Neglectibacter timonensis,1.0,0.17541274620883177,0.17541274620883177,Neglectibacter timonensis
+Desulfovibrio porci,Haemophilus parainfluenzae ATCC 33392,1.0,0.12608356999676984,0.12608356999676987,Haemophilus parainfluenzae ATCC 33392
+Desulfovibrio porci,Haemophilus sputorum CCUG 13788,1.0,0.12358666591104635,0.12358666591104635,Haemophilus sputorum CCUG 13788
+Desulfovibrio porci,Lactimicrobium massiliense,1.0,0.12107545291938746,0.12107545291938746,Lactimicrobium massiliense
+Desulfovibrio porci,Neisseria cinerea,1.0,0.11854980766915584,0.11854980766915584,Neisseria cinerea
+Desulfovibrio porci,Pyramidobacter piscolens,1.0,0.11600960538578166,0.11600960538578166,Pyramidobacter piscolens
+Desulfovibrio porci,Scardovia wiggsiae,1.0,0.11345471985221457,0.11345471985221457,Scardovia wiggsiae
+Desulfovibrio porci,Streptococcus raffinosi,1.0,0.11088502338801809,0.11088502338801809,Streptococcus raffinosi
+Desulfovibrio porci,Sutterella massiliensis,1.0,0.10830038682809952,0.10830038682809955,Sutterella massiliensis
+Desulfovibrio porci,[Eubacterium] brachy,1.0,0.10570067950106776,0.10570067950106776,[Eubacterium] brachy
+Dryocola mayonis,Duodenibacillus massiliensis,1.0,0.12689337724868455,0.12689337724868455,Duodenibacillus massiliensis
+Dryocola mayonis,Ezakiella coagulans,1.0,0.12433294726994168,0.12433294726994168,Ezakiella coagulans
+Dryocola mayonis,Prevotella fusca JCM 17724,1.0,0.12175745593838272,0.12175745593838268,Dryocola mayonis
+Elusimicrobium minutum,Proteiniclasticum sediminis,1.0,0.13521607039486638,0.13521607039486638,Proteiniclasticum sediminis
+Enterocloster lavalensis,Ligilactobacillus salivarius,1.0,0.12991758084546043,0.12991758084546043,Ligilactobacillus salivarius
+Enterocloster lavalensis,Victivallis vadensis,1.0,0.12733573390434902,0.12733573390434902,Victivallis vadensis
+Entomohabitans teleogrylli,Rhodospirillum rubrum ATCC 11170,1.0,0.0894034240014762,0.0894034240014762,Rhodospirillum rubrum ATCC 11170
+Eubacterium oxidoreducens,Kineothrix alysoides,1.0,0.09444409942739772,0.09444409942739773,Kineothrix alysoides
+Fenollaria massiliensis,Fusobacterium varium,1.0,0.09715858408843232,0.09715858408843232,Fusobacterium varium
+Fenollaria massiliensis,Leptotrichia wadei,1.0,0.0944473486052144,0.0944473486052144,Leptotrichia wadei
+Fenollaria massiliensis,Paraclostridium tenue,1.0,0.09171978037812167,0.09171978037812167,Paraclostridium tenue
+Fenollaria massiliensis,Streptococcus constellatus subsp. viborgensis SK1359,1.0,0.0889757313762429,0.0889757313762429,Streptococcus constellatus subsp. viborgensis SK1359
+Finegoldia magna,Rhodococcus pyridinivorans,1.0,0.0919635555146695,0.09196355551466949,Finegoldia magna
+Fusobacterium hwasookii ChDC F128,Fusobacterium mortiferum,1.0,0.1003408592881657,0.1003408592881657,Fusobacterium mortiferum
+Fusobacterium polymorphum ATCC 10953,Morganella morganii,1.0,0.09000829698416435,0.09000829698416435,Morganella morganii
+Haliplanktos anthonyquinnii,Oceanicella actignis,1.0,0.08625161015302799,0.08625161015302799,Oceanicella actignis
+Haliplanktos anthonyquinnii,Sphingosinicella cucumeris,1.0,0.08344870098171826,0.08344870098171826,Sphingosinicella cucumeris
+Klebsiella pneumoniae,Pantoea rwandensis,1.0,0.09058120010871408,0.09058120010871407,Klebsiella pneumoniae
+Lachnoanaerobaculum orale,Oribacterium sinus,1.0,0.11275212732634679,0.11275212732634679,Oribacterium sinus
+Lachnoanaerobaculum orale,Peptostreptococcus russellii,1.0,0.11000522988772866,0.11000522988772866,Peptostreptococcus russellii
+Lachnoanaerobaculum orale,Prevotella intermedia ATCC 25611 = DSM 20706,1.0,0.10724127097433654,0.10724127097433654,Prevotella intermedia ATCC 25611 = DSM 20706
+Lachnoanaerobaculum orale,Solobacterium moorei,1.0,0.10446009113313512,0.10446009113313512,Solobacterium moorei
+Lactobacillus crispatus,Olsenella congonensis,1.0,0.11782750750449462,0.11782750750449462,Olsenella congonensis
+Lactobacillus crispatus,Paracoccus subflavus,1.0,0.11506207649353695,0.11506207649353695,Paracoccus subflavus
+Lancefieldella parvula DSM 20469,Leptotrichia massiliensis,1.0,0.12349805037706281,0.12349805037706281,Leptotrichia massiliensis
+Lancefieldella parvula DSM 20469,Phocaeicola faecalis,1.0,0.12073305999970334,0.12073305999970334,Phocaeicola faecalis
+Lancefieldella parvula DSM 20469,Pseudobutyrivibrio ruminis,1.0,0.11795056968324671,0.11795056968324671,Pseudobutyrivibrio ruminis
+Lancefieldella parvula DSM 20469,Pseudoflavonifractor capillosus ATCC 29799,1.0,0.11515041276160624,0.11515041276160624,Pseudoflavonifractor capillosus ATCC 29799
+Megasphaera jansseni,Neglectibacter caecimuris,1.0,0.12325875068220947,0.12325875068220947,Neglectibacter caecimuris
+Megasphaera jansseni,Ruminococcus bovis,1.0,0.120457660428798,0.120457660428798,Ruminococcus bovis
+Monoglobus pectinilyticus,Odoribacter laneus YIT 12061,1.0,0.1445319562179623,0.1445319562179623,Odoribacter laneus YIT 12061
+Monoglobus pectinilyticus,Pleomorphomonas koreensis,1.0,0.14178125511255388,0.14178125511255382,Monoglobus pectinilyticus
+Acutalibacter caecimuris,Olsenella porci,0.9991456642460487,0.21932512400741327,0.2188516002987906,Acutalibacter caecimuris
+Acetobacter orientalis,Affinirhizobium straminoryzae,0.99875,0.18759512313029922,0.18739359134881997,Acetobacter orientalis
+Bifidobacterium bifidum,Prevotellamassilia timonensis,0.99875,0.15705870957558218,0.15775871227922805,Prevotellamassilia timonensis
+Claveliimonas monacensis,Desulfovibrio desulfuricans,0.99875,0.1862357898998153,0.18558264938312793,Claveliimonas monacensis
+Merdimonas faecis,Olsenella porci,0.9974369927381461,0.21496218842339873,0.21533350910097612,Olsenella porci

@@ -1,0 +1,21 @@
+{
+  "removed_bundle_keys": [
+    "training_sample_names"
+  ],
+  "removed_RF_attributes": [
+    "oob_decision_function_",
+    "_sample_weight"
+  ],
+  "removed_manifest_fields": [
+    "train_samples",
+    "test_samples"
+  ],
+  "synthetic_rows": 3,
+  "predict_proba_exactly_matches": true,
+  "predict_exactly_matches": true,
+  "original_model_unchanged": true,
+  "original_manifest_unchanged": true,
+  "sanitized_model_bytes": 6238145,
+  "original_model_sha256": "5aeedf7ebde2c8083a608a1b0201f9bee87ca6d91d9f507e603c0f116e5883d3",
+  "sanitized_model_sha256": "76d7e6ee66cf2d8fa178e45c27988f6e7a3fecd791dd01a23ed82782bba2c9f5"
+}

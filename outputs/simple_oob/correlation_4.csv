@@ -1,0 +1,478 @@
+scientific_name,n_unique_train,constant,selected_by_correlation,selected
+Abyssivirga alkaniphila,7,False,True,True
+Acetanaerobacterium elongatum,18,False,True,True
+Acetivibrio cellulolyticus,4,False,True,False
+Acetivibrio clariflavus DSM 19732,1,True,False,False
+Acetivibrio ethanolgignens,1,True,False,False
+Acetivibrio mesophilus,6,False,True,False
+Acetivibrio straminisolvens,2,False,True,False
+Acetivibrio thermocellus,2,False,False,False
+Acetobacter orientalis,3,False,False,False
+Acidaminobacterium chupaoyuni,13,False,True,True
+Actinomyces marseillensis,4,False,True,False
+Acutalibacter caecimuris,4,False,False,False
+Acutalibacter intestini,8,False,True,False
+Aestuariispira ectoiniformans,6,False,True,False
+Aestuariispira insulae,2,False,False,False
+Affinirhizobium straminoryzae,3,False,True,False
+Agathobacter rectalis ATCC 33656,34,False,True,True
+Agathobaculum butyriciproducens,17,False,True,True
+Agathobaculum desmolans,13,False,True,True
+Agromyces ulmi,2,False,True,False
+Akkermansia muciniphila,11,False,True,True
+Alistipes putredinis,1,True,False,False
+Alkaliphilus metalliredigens QYMF,6,False,True,True
+Allobaculum stercoricanis DSM 13633,2,False,False,False
+Allobaileyella intestinalis,4,False,True,True
+Allocoprococcus similis,27,False,True,True
+Allofournierella massiliensis,2,False,True,False
+Alloprevotella rava,2,False,False,False
+Amaricoccus kaplicensis,2,False,False,False
+Aminipila butyrica,3,False,False,False
+Anaerobacterium chartisolvens,13,False,True,True
+Anaerobium acetethylicum,24,False,True,True
+Anaerobutyricum hallii,27,False,True,True
+Anaerobutyricum soehngenii,22,False,True,True
+Anaerococcus octavius NCTC 9810,1,True,False,False
+Anaerococcus vaginalis ATCC 51170,2,False,False,False
+Anaerocolumna cellulosilytica,3,False,True,False
+Anaerofilum pentosovorans,5,False,True,False
+Anaerofustis stercorihominis,6,False,True,False
+Anaeromassilibacillus senegalensis,8,False,True,False
+Anaeromicropila herbilytica,2,False,True,False
+Anaeroplasma abactoclasticum,3,False,False,False
+Anaerosacchariphilus polymeriproducens,2,False,False,False
+Anaerosinus gibii,2,False,False,False
+Anaerostipes faecalis,3,False,False,False
+Anaerostipes hadrus,23,False,True,True
+Anaerostipes hominis (ex Lee et al. 2021),3,False,True,False
+Anaerotaenia torta,3,False,True,False
+Anaerotignum aminivorans,5,False,True,False
+Anaerotignum faecicola,22,False,True,True
+Anaerotignum lactatifermentans,2,False,False,False
+Anaerotignum propionicum,3,False,False,False
+Anaerotruncus colihominis,8,False,True,True
+Anaerotruncus rubiinfantis,4,False,True,True
+Anaerovorax odorimutans,6,False,True,True
+Angelakisella massiliensis,2,False,False,False
+Aquamicrobium terrae,2,False,False,False
+Aquihabitans daechungensis,2,False,False,False
+Arcobacter lacus,2,False,False,False
+Arcobacter nitrofigilis DSM 7299,2,False,True,False
+Aristaeella hokkaidonensis,18,False,True,True
+Aristaeella lactis,13,False,True,True
+Arthrobacter subterraneus,2,False,False,False
+Asteroleplasma anaerobium,2,False,False,False
+Asticcacaulis biprosthecium,2,False,False,False
+Bacteroides caccae,7,False,True,True
+Bacteroides cutis,3,False,True,False
+Bacteroides faecichinchillae JCM 17102,2,False,False,False
+Bacteroides fragilis NCTC 9343,8,False,True,True
+Bacteroides mediterraneensis,3,False,True,False
+Bacteroides ovatus,2,False,False,False
+Bacteroides stercoris ATCC 43183,5,False,True,False
+Bacteroides xylanisolvens XB1A,2,False,False,False
+Bacteroides zhangwenhongii,3,False,True,False
+Bifidobacterium adolescentis ATCC 15703,17,False,True,True
+Bifidobacterium bifidum,3,False,True,False
+Bifidobacterium breve DSM 20213 = JCM 1192,4,False,True,False
+Bifidobacterium callitrichidarum,4,False,True,False
+Bifidobacterium catenulatum subsp. puerorum,2,False,False,False
+Bifidobacterium colobi,2,False,False,False
+Bifidobacterium dentium,3,False,True,False
+Bifidobacterium longum,19,False,True,True
+Bifidobacterium longum subsp. suillum,4,False,True,False
+Bifidobacterium pseudocatenulatum,7,False,True,True
+Bilophila wadsworthia,2,False,False,False
+Bittarella massiliensis (ex Durand et al. 2017),6,False,True,False
+Blautia argi,4,False,True,False
+Blautia caecimuris,4,False,True,False
+Blautia faecicola,5,False,True,False
+Blautia faecis,23,False,True,True
+Blautia hominis,2,False,True,False
+Blautia intestinalis,16,False,True,True
+Blautia liquoris,2,False,False,False
+Blautia luti,28,False,True,True
+Blautia obeum ATCC 29174,18,False,True,True
+Blautia phocaeensis,4,False,True,False
+Blautia schinkii,3,False,True,False
+Blautia stercoris,6,False,True,False
+Blautia wexlerae DSM 19850,33,False,True,True
+Brevundimonas naejangsanensis,2,False,False,False
+Butyribacter intestini,1,True,False,False
+Butyricicoccus faecihominis,4,False,True,False
+Butyricicoccus intestinisimiae,8,False,True,True
+Butyricicoccus porcorum,1,True,False,False
+Butyricicoccus pullicaecorum,6,False,True,False
+Caloramator mitchellensis,2,False,True,False
+Campylobacter concisus,2,False,False,False
+Campylobacter gracilis,2,False,False,False
+Campylobacter jejuni subsp. jejuni ATCC 33560,3,False,True,False
+Campylobacter massiliensis,4,False,True,False
+Campylobacter ureolyticus DSM 20703,4,False,True,False
+Candidatus Peptostreptococcus massiliensis,3,False,True,True
+Canicola haemoglobinophilus,2,False,True,False
+Caproicibacter fermentans,6,False,True,False
+Casaltella massiliensis,1,True,False,False
+Catenibacillus scindens,2,False,True,False
+Catenibacterium mitsuokai subsp. tridentinum,4,False,True,False
+Cellulomonas telluris,2,False,False,False
+Cellulosilyticum lentocellum DSM 5427,2,False,False,False
+Cellulosilyticum ruminicola JCM 14822,2,False,False,False
+Christensenella hongkongensis,2,False,False,False
+Christensenella intestinihominis,2,False,False,False
+Christensenella massiliensis,7,False,True,False
+Christensenella minuta,1,True,False,False
+Christensenella timonensis,2,False,False,False
+Claveliimonas monacensis,3,False,False,False
+Clostridioides difficile ATCC 9689 = DSM 1296,2,False,True,False
+Clostridium cadaveris,4,False,True,True
+Clostridium culturomicium,1,True,False,False
+Clostridium fungisolvens,2,False,False,False
+Clostridium jeddahitimonense,7,False,True,True
+Clostridium pacaense,5,False,True,False
+Clostridium paraputrificum,6,False,True,False
+Clostridium perfringens ATCC 13124,10,False,True,True
+Clostridium phoceensis,6,False,True,True
+Clostridium porci,23,False,True,True
+Clostridium quinii,1,True,False,False
+Clostridium saudiense,16,False,True,True
+Clostridium simiarum,2,False,True,False
+Clostridium tertium,2,False,True,False
+Colidextribacter massiliensis,11,False,True,True
+Collinsella aerofaciens,17,False,True,True
+Congzhengia minquanensis,11,False,True,True
+Coprococcus eutactus,11,False,True,True
+Coprococcus phoceensis,6,False,True,False
+Corynebacterium argentoratense,2,False,False,False
+Corynebacterium choanae,2,False,True,True
+Corynebacterium dentalis,14,False,True,True
+Corynebacterium fournieri,1,True,False,False
+Corynebacterium kroppenstedtii,1,True,False,False
+Corynebacterium pilbarense,2,False,False,False
+Corynebacterium tuberculostearicum,2,False,False,False
+Crassaminicella profunda,2,False,True,False
+Cronobacter condimenti 1330,2,False,True,False
+Cuneatibacter caecimuris,2,False,False,False
+Cutibacterium acnes,23,False,True,True
+Dakarella massiliensis,2,False,False,False
+Defluviitalea raffinosedens,3,False,True,False
+Desulfovibrio desulfuricans,3,False,True,False
+Desulfovibrio falkowii,2,False,False,False
+Desulfovibrio porci,2,False,True,False
+Dialister massiliensis,5,False,True,False
+Dialister pneumosintes,2,False,False,False
+Dialister succinatiphilus YIT 11850,2,False,False,False
+Dongia sedimenti,2,False,False,False
+Dorea longicatena,38,False,True,True
+Dorea phocaeensis,36,False,True,True
+Dryocola mayonis,2,False,False,False
+Duncaniella muricolitica,7,False,True,True
+Duodenibacillus massiliensis,2,False,False,False
+Dysosmobacter acutus,5,False,True,True
+Dysosmobacter welbionis,11,False,True,True
+Eggerthella lenta,9,False,True,True
+Eikenella corrodens,2,False,False,False
+Eisenbergiella porci,4,False,True,False
+Eisenbergiella tayi,6,False,True,True
+Ellagibacter isourolithinifaciens,5,False,True,False
+Elusimicrobium minutum,3,False,True,False
+Emergencia timonensis,5,False,True,False
+Enterocloster aldenensis,8,False,True,False
+Enterocloster asparagiformis,1,True,False,False
+Enterocloster citroniae,1,True,False,False
+Enterocloster clostridioformis,17,False,True,True
+Enterocloster lavalensis,2,False,True,False
+Enterococcus saigonensis,2,False,False,False
+Entomohabitans teleogrylli,2,False,True,False
+Ercella succinigenes,2,False,False,False
+Escherichia fergusonii ATCC 35469,3,False,True,False
+Escherichia marmotae,17,False,True,True
+Eshraghiella crossota,8,False,True,True
+Ethanoligenens harbinense YUAN-3,7,False,True,False
+Eubacterium callanderi,1,True,False,False
+Eubacterium coprostanoligenes,20,False,True,True
+Eubacterium limosum,1,True,False,False
+Eubacterium oxidoreducens,2,False,True,False
+Eubacterium ramulus ATCC 29099,22,False,True,True
+Eubacterium ruminantium,2,False,False,False
+Eubacterium ventriosum,7,False,True,True
+Eubacterium xylanophilum,5,False,True,False
+Evtepia gabavorous,8,False,True,True
+Ezakiella coagulans,2,False,False,False
+Faecalibacillus intestinalis,7,False,True,False
+Faecalibacterium duncaniae,36,False,True,True
+Faecalibacterium hattorii,15,False,True,False
+Faecalibacterium langellae,18,False,True,True
+Faecalibacterium longum,29,False,True,True
+Faecalibacterium prausnitzii,27,False,True,True
+Faecalicatena contorta,6,False,True,True
+Faecalicatena orotica,12,False,True,False
+Faecalimonas hominis,2,False,False,False
+Faecalimonas umbilicata,4,False,True,False
+Falcatimonas natans,3,False,True,False
+Feifania hominis,13,False,True,True
+Fenollaria massiliensis,2,False,True,False
+Finegoldia magna,2,False,False,False
+Flavonifractor porci,1,True,False,False
+Flintibacter butyricus,15,False,True,True
+Flintibacter porci,11,False,True,False
+Fodinicurvata sediminis,1,True,False,False
+Fretibacterium fastidiosum,1,True,False,False
+Frisingicoccus caecimuris,5,False,True,True
+Fumia xinanensis,4,False,True,False
+Fusicatenibacter saccharivorans,18,False,True,True
+Fusobacterium animalis,10,False,True,True
+Fusobacterium canifelinum,7,False,True,True
+Fusobacterium hwasookii ChDC F128,2,False,True,True
+Fusobacterium mortiferum,2,False,False,False
+Fusobacterium nucleatum,3,False,True,True
+Fusobacterium nucleatum subsp. nucleatum ATCC 25586,4,False,True,False
+Fusobacterium polymorphum ATCC 10953,2,False,True,False
+Fusobacterium pseudoperiodonticum,3,False,True,False
+Fusobacterium varium,2,False,False,False
+Fusobacterium vincentii ATCC 51190,6,False,True,True
+Fusobacterium watanabei,9,False,True,True
+Gehongia tenuis,12,False,True,True
+Gemella taiwanensis,4,False,True,False
+Gemmiger formicilis,34,False,True,True
+Gordonia hongkongensis,3,False,True,True
+Gracilibacter thermotolerans JW/YJL-S1,1,True,False,False
+Guopingia tenuis,15,False,True,True
+Haemophilus parainfluenzae ATCC 33392,2,False,False,False
+Haemophilus sputorum CCUG 13788,2,False,False,False
+Haliplanktos anthonyquinnii,2,False,True,False
+Harryflintia acetispora,6,False,True,False
+Herbinix luporum,2,False,False,False
+Hespellia porcina,3,False,True,False
+Holdemanella porci,5,False,True,False
+Hominimerdicola alba 7 = DSM 20455,2,False,False,False
+Hominimerdicola intestinalis,21,False,True,True
+Hominisplanchenecus faecis,14,False,True,True
+Howardella ureilytica,21,False,True,True
+Hungatella effluvii,11,False,True,True
+Hungatella hathewayi,7,False,True,True
+Hydrogeniiclostridium mannosilyticum,7,False,True,False
+Ihubacter massiliensis,12,False,True,True
+Intestinibacillus massiliensis,3,False,True,True
+Intestinibacter bartlettii,14,False,True,True
+Intestinimonas butyriciproducens,25,False,True,True
+Intestinimonas gabonensis,2,False,False,False
+Intestinimonas massiliensis (ex Afouda et al. 2020),24,False,True,True
+Intestinimonas timonensis,6,False,True,True
+Izhakiella australiensis,5,False,True,True
+Jingyaoa shaoxingensis,9,False,True,True
+Jutongia hominis,10,False,True,True
+Jutongia huaianensis,5,False,True,False
+Kineothrix alysoides,2,False,False,False
+Kineothrix sedimenti,24,False,True,True
+Klebsiella planticola,2,False,False,False
+Klebsiella pneumoniae,2,False,False,False
+Kocuria palustris,1,True,False,False
+Kosakonia quasisacchari,1,True,False,False
+Lachnoanaerobaculum orale,2,False,True,False
+Lachnoanaerobaculum saburreum DSM 3986,3,False,True,False
+Lachnobacterium bovis,7,False,True,False
+Lachnoclostridium edouardi,36,False,True,True
+Lachnoclostridium phytofermentans,2,False,False,False
+Lachnospira eligens ATCC 27750,35,False,True,True
+Lachnospira pectinoschiza,13,False,True,True
+Lachnotalea glycerini,5,False,True,False
+Lacrimispora amygdalina,1,True,False,False
+Lacrimispora brassicae,2,False,False,False
+Lacrimispora xylanisolvens,1,True,False,False
+Lactimicrobium massiliense,2,False,False,False
+Lactobacillus crispatus,2,False,True,False
+Lancefieldella parvula DSM 20469,2,False,True,False
+Lancefieldella rimae,2,False,True,False
+Lawsonella clevelandensis,5,False,True,True
+Lawsonibacter asaccharolyticus,3,False,False,False
+Lentihominibacter faecis,16,False,True,False
+Lentihominibacter hominis,15,False,True,True
+Leptotrichia buccalis,2,False,False,False
+Leptotrichia hongkongensis,1,True,False,False
+Leptotrichia massiliensis,2,False,False,False
+Leptotrichia wadei,2,False,False,False
+Leyella stercorea DSM 18206,2,False,False,False
+Lientehia hominis,5,False,True,False
+Ligilactobacillus salivarius,2,False,False,False
+Luoshenia tenuis,14,False,True,True
+Lutispora thermophila DSM 19022,3,False,True,True
+Magnetovibrio blakemorei,2,False,False,False
+Maliibacterium massiliense,4,False,True,False
+Marasmitruncus massiliensis,2,False,False,False
+Marileptolyngbya sina,1,True,False,False
+Marseillibacter massiliensis,22,False,True,True
+Massilioclostridium coli,5,False,True,True
+Massilistercora timonensis,5,False,True,False
+Mediterraneibacter butyricigenes,2,False,False,False
+Mediterraneibacter catenae,3,False,True,False
+Mediterraneibacter faecis JCM 15917,29,False,True,True
+Mediterraneibacter gnavus ATCC 29149,17,False,True,True
+Mediterraneibacter torques,18,False,True,True
+Megamonas funiformis YIT 11815,2,False,False,False
+Megasphaera jansseni,2,False,True,False
+Merdimmobilis hominis,4,False,True,True
+Merdimonas faecis,4,False,True,False
+Methanobrevibacter intestini,13,False,True,True
+Methanosphaera stadtmanae DSM 3091,2,False,False,False
+Mobilitalea sibirica,2,False,False,False
+Mogibacterium kristiansenii,3,False,True,True
+Mogibacterium neglectum,2,False,False,False
+Monoglobus pectinilyticus,2,False,False,False
+Morganella morganii,2,False,False,False
+Murimonas intestini,10,False,True,True
+Natranaerovirga pectinivora,6,False,True,True
+Negativibacillus massiliensis,8,False,True,False
+Neglectibacter caecimuris,2,False,False,False
+Neglectibacter timonensis,3,False,False,False
+Neisseria cinerea,2,False,False,False
+Nocardia coeliaca,2,False,True,False
+Nocardioides astragali,1,True,False,False
+Novisyntrophococcus fermenticellae,12,False,True,True
+Novosphingobium lotistagni,1,True,False,False
+Oceanicella actignis,2,False,False,False
+Odoribacter laneus YIT 12061,2,False,False,False
+Odoribacter splanchnicus,2,False,False,False
+Oliverpabstia intestinalis,16,False,True,False
+Olsenella congonensis,2,False,False,False
+Olsenella porci,4,False,False,False
+Olsenella urininfantis,1,True,False,False
+Oribacterium sinus,2,False,False,False
+Oscillibacter ruminantium GH1,10,False,True,True
+Oscillibacter valericigenes,4,False,False,False
+Owariibacterium komagatae,7,False,True,True
+Paludihabitans psychrotolerans,6,False,True,False
+Pantoea rwandensis,2,False,True,False
+Papillibacter cinnamivorans,1,True,False,False
+Parabacteroides goldsteinii DSM 19448 = WAL 12034,2,False,False,False
+Parabacteroides johnsonii,3,False,True,False
+Parabacteroides merdae,5,False,True,True
+Parabacteroides merdae ATCC 43184,3,False,True,False
+Paraclostridium ghonii,1,True,False,False
+Paraclostridium sordellii,2,False,False,False
+Paraclostridium tenue,2,False,False,False
+Paracoccus aerius,1,True,False,False
+Paracoccus hibiscisoli,2,False,False,False
+Paracoccus spongiarum,1,True,False,False
+Paracoccus subflavus,2,False,False,False
+Parasporobacterium paucivorans,2,False,False,False
+Parasutterella excrementihominis,1,True,False,False
+Paratractidigestivibacter faecalis,5,False,True,False
+Parvimonas micra,7,False,True,True
+Peptoclostridium acidaminophilum,2,False,False,False
+Peptoniphilus faecalis,6,False,True,True
+Peptoniphilus lacydonensis,4,False,True,False
+Peptostreptococcus anaerobius,6,False,True,True
+Peptostreptococcus russellii,2,False,False,False
+Peptostreptococcus stomatis,10,False,True,False
+Petroclostridium xylanilyticum,7,False,True,False
+Phocaeicola coprocola DSM 17136,2,False,False,False
+Phocaeicola dorei,12,False,True,False
+Phocaeicola faecalis,2,False,False,False
+Phocaeicola massiliensis,3,False,True,False
+Phocaeicola vulgatus ATCC 8482,16,False,True,True
+Phyllobacterium zundukense,3,False,True,False
+Pleomorphomonas koreensis,2,False,True,False
+Prauserella isguenensis,30,False,True,True
+Prevotella bivia,4,False,True,False
+Prevotella fusca JCM 17724,2,False,True,False
+Prevotella intermedia ATCC 25611 = DSM 20706,2,False,False,False
+Prevotellamassilia timonensis,3,False,False,False
+Proteiniclasticum sediminis,3,False,False,False
+Pseudobutyrivibrio ruminis,2,False,False,False
+Pseudocoprococcus catus,24,False,True,True
+Pseudoflavonifractor capillosus ATCC 29799,2,False,False,False
+Pseudoflavonifractor gallinarum,4,False,True,False
+Pseudonocardia antitumoralis,1,True,False,False
+Pseudoruminococcus massiliensis,7,False,True,False
+Pusillibacter faecalis,3,False,True,False
+Pyramidobacter piscolens,2,False,False,False
+Qiania dongpingensis,4,False,True,False
+Raoultibacter timonensis,10,False,True,True
+Rhodococcus pyridinivorans,2,False,True,False
+Rhodospirillum rubrum ATCC 11170,2,False,False,False
+Robinsoniella peoriensis,1,True,False,False
+Romboutsia sedimentorum,5,False,True,True
+Romboutsia timonensis,13,False,True,True
+Roseburia faecis,18,False,True,True
+Roseburia hominis A2-183,11,False,True,True
+Roseburia intestinalis,8,False,True,True
+Roseburia inulinivorans DSM 16841,31,False,True,True
+Roseburia lenta,5,False,True,True
+Roseburia porci,10,False,True,False
+Rothia dentocariosa ATCC 17931,2,False,False,False
+Rothia endophytica,2,False,False,False
+Rothia mucilaginosa,10,False,True,True
+Rothia nasisuis,2,False,False,False
+Rubrobacter bracarensis,2,False,False,False
+Ructibacterium gallinarum,13,False,True,True
+Ruminiclostridium herbifermentans,8,False,True,False
+Ruminococcoides bili,16,False,True,True
+Ruminococcus bovis,2,False,False,False
+Ruminococcus bromii,12,False,True,True
+Ruminococcus callidus,20,False,True,True
+Ruminococcus champanellensis 18P13 = JCM 17042,9,False,True,False
+Ruminococcus flavefaciens,4,False,True,False
+Ruminococcus sporogenes,3,False,True,False
+Ruthenibacterium lactatiformans,19,False,True,True
+Saccharofermentans acetigenes,4,False,True,False
+Scardovia wiggsiae,2,False,False,False
+Schaalia odontolytica,8,False,True,False
+Segatella copri DSM 18205,14,False,True,False
+Sellimonas intestinalis,3,False,True,False
+Senegalimassilia anaerobia JC110,12,False,True,True
+Senegalimassilia faecalis,8,False,True,True
+Serratia ficaria,1,True,False,False
+Serratia surfactantfaciens,2,False,True,False
+Simiaoa hominis,7,False,True,True
+Slackia isoflavoniconvertens,6,False,True,False
+Solibaculum mannosilyticum,14,False,True,True
+Solobacterium moorei,2,False,False,False
+Sphingomonas faucium,1,True,False,False
+Sphingosinicella cucumeris,2,False,False,False
+Sporobacter termitidis,18,False,True,True
+Sporofaciens musculi,3,False,True,False
+Streptococcus constellatus subsp. viborgensis SK1359,2,False,False,False
+Streptococcus gordonii,1,True,False,False
+Streptococcus hongkongensis,1,True,False,False
+Streptococcus raffinosi,2,False,False,False
+Streptococcus shenyangsis,2,False,False,False
+Streptococcus vicugnae,2,False,True,False
+Succinivibrio dextrinosolvens,8,False,True,False
+Sutterella massiliensis,2,False,False,False
+Sutterella wadsworthensis,2,False,False,False
+Terrisporobacter petrolearius,4,False,True,False
+Thermophilibacter provencensis,3,False,True,False
+Thomasclavelia ramosa,4,False,True,False
+Thomasclavelia spiroformis,2,False,False,False
+Tidjanibacter massiliensis,1,True,False,False
+Tractidigestivibacter scatoligenes,4,False,True,True
+Vallitalea okinawensis,6,False,True,False
+Vallitalea pronyensis,3,False,True,False
+Vallitalea sediminicola,6,False,True,False
+Vampirovibrio chlorellavorus,7,False,True,True
+Veillonella nakazawae,4,False,True,False
+Velocimicrobium porci,14,False,True,True
+Vescimonas coprocola,23,False,True,True
+Vescimonas fastidiosa,21,False,True,True
+Victivallis lenta,7,False,True,False
+Victivallis vadensis,2,False,False,False
+Waltera intestinalis,27,False,True,True
+Wansuia hejianensis,3,False,True,False
+Wujia chipingensis,8,False,True,False
+Yeguia hominis,4,False,True,False
+Zhenhengia yiwuensis,3,False,True,False
+Zhenpiania hominis,5,False,True,False
+[Bacteroides] pectinophilus,4,False,True,False
+[Clostridium] fimetarium,2,False,False,False
+[Clostridium] innocuum,4,False,True,True
+[Clostridium] leptum,17,False,True,True
+[Clostridium] methylpentosum,11,False,True,True
+[Clostridium] polysaccharolyticum,4,False,True,False
+[Clostridium] scindens,3,False,True,False
+[Clostridium] symbiosum,11,False,True,True
+[Eubacterium] brachy,2,False,False,False
+[Eubacterium] siraeum,11,False,True,True
+[Lactobacillus] rogosae,19,False,True,True
+[Ruminococcus] lactaris ATCC 29176,16,False,True,False

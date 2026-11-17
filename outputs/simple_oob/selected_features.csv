@@ -1,0 +1,825 @@
+experiment_id,feature_name,feature_type
+1,Abyssivirga alkaniphila,microbiome
+1,Acetanaerobacterium elongatum,microbiome
+1,Acidaminobacterium chupaoyuni,microbiome
+1,Actinomyces marseillensis,microbiome
+1,Agathobacter rectalis ATCC 33656,microbiome
+1,Agathobaculum butyriciproducens,microbiome
+1,Agathobaculum desmolans,microbiome
+1,Akkermansia muciniphila,microbiome
+1,Alkaliphilus metalliredigens QYMF,microbiome
+1,Allocoprococcus similis,microbiome
+1,Anaerobacterium chartisolvens,microbiome
+1,Anaerobium acetethylicum,microbiome
+1,Anaerobutyricum hallii,microbiome
+1,Anaerobutyricum soehngenii,microbiome
+1,Anaerofustis stercorihominis,microbiome
+1,Anaeromassilibacillus senegalensis,microbiome
+1,Anaerostipes faecalis,microbiome
+1,Anaerostipes hadrus,microbiome
+1,Anaerotignum faecicola,microbiome
+1,Anaerotruncus colihominis,microbiome
+1,Anaerotruncus rubiinfantis,microbiome
+1,Anaerovorax odorimutans,microbiome
+1,Aristaeella hokkaidonensis,microbiome
+1,Aristaeella lactis,microbiome
+1,Bacteroides caccae,microbiome
+1,Bifidobacterium longum,microbiome
+1,Bifidobacterium pseudocatenulatum,microbiome
+1,Bittarella massiliensis (ex Durand et al. 2017),microbiome
+1,Blautia faecis,microbiome
+1,Blautia intestinalis,microbiome
+1,Blautia luti,microbiome
+1,Blautia obeum ATCC 29174,microbiome
+1,Blautia phocaeensis,microbiome
+1,Blautia stercoris,microbiome
+1,Blautia wexlerae DSM 19850,microbiome
+1,Butyricicoccus intestinisimiae,microbiome
+1,Candidatus Peptostreptococcus massiliensis,microbiome
+1,Clostridium jeddahitimonense,microbiome
+1,Clostridium paraputrificum,microbiome
+1,Clostridium perfringens ATCC 13124,microbiome
+1,Clostridium phoceensis,microbiome
+1,Clostridium porci,microbiome
+1,Clostridium saudiense,microbiome
+1,Colidextribacter massiliensis,microbiome
+1,Collinsella aerofaciens,microbiome
+1,Congzhengia minquanensis,microbiome
+1,Coprococcus eutactus,microbiome
+1,Coprococcus phoceensis,microbiome
+1,Corynebacterium choanae,microbiome
+1,Corynebacterium dentalis,microbiome
+1,Cutibacterium acnes,microbiome
+1,Dialister massiliensis,microbiome
+1,Dorea longicatena,microbiome
+1,Dorea phocaeensis,microbiome
+1,Duncaniella muricolitica,microbiome
+1,Dysosmobacter welbionis,microbiome
+1,Eggerthella lenta,microbiome
+1,Eikenella corrodens,microbiome
+1,Eisenbergiella tayi,microbiome
+1,Enterocloster aldenensis,microbiome
+1,Enterocloster clostridioformis,microbiome
+1,Escherichia marmotae,microbiome
+1,Eshraghiella crossota,microbiome
+1,Eubacterium coprostanoligenes,microbiome
+1,Eubacterium ramulus ATCC 29099,microbiome
+1,Eubacterium xylanophilum,microbiome
+1,Evtepia gabavorous,microbiome
+1,Faecalibacillus intestinalis,microbiome
+1,Faecalibacterium duncaniae,microbiome
+1,Faecalibacterium hattorii,microbiome
+1,Faecalibacterium langellae,microbiome
+1,Faecalibacterium longum,microbiome
+1,Faecalibacterium prausnitzii,microbiome
+1,Faecalicatena contorta,microbiome
+1,Faecalicatena orotica,microbiome
+1,Faecalimonas hominis,microbiome
+1,Feifania hominis,microbiome
+1,Flintibacter butyricus,microbiome
+1,Fusicatenibacter saccharivorans,microbiome
+1,Fusobacterium animalis,microbiome
+1,Fusobacterium canifelinum,microbiome
+1,Fusobacterium hwasookii ChDC F128,microbiome
+1,Fusobacterium nucleatum,microbiome
+1,Fusobacterium vincentii ATCC 51190,microbiome
+1,Fusobacterium watanabei,microbiome
+1,Gehongia tenuis,microbiome
+1,Gemmiger formicilis,microbiome
+1,Gordonia hongkongensis,microbiome
+1,Guopingia tenuis,microbiome
+1,Hespellia porcina,microbiome
+1,Hominimerdicola intestinalis,microbiome
+1,Hominisplanchenecus faecis,microbiome
+1,Howardella ureilytica,microbiome
+1,Hungatella effluvii,microbiome
+1,Hungatella hathewayi,microbiome
+1,Ihubacter massiliensis,microbiome
+1,Intestinibacter bartlettii,microbiome
+1,Intestinimonas butyriciproducens,microbiome
+1,Intestinimonas massiliensis (ex Afouda et al. 2020),microbiome
+1,Izhakiella australiensis,microbiome
+1,Jingyaoa shaoxingensis,microbiome
+1,Jutongia hominis,microbiome
+1,Kineothrix sedimenti,microbiome
+1,Klebsiella pneumoniae,microbiome
+1,Lachnobacterium bovis,microbiome
+1,Lachnoclostridium edouardi,microbiome
+1,Lachnospira eligens ATCC 27750,microbiome
+1,Lachnotalea glycerini,microbiome
+1,Lawsonella clevelandensis,microbiome
+1,Leptotrichia buccalis,microbiome
+1,Luoshenia tenuis,microbiome
+1,Marseillibacter massiliensis,microbiome
+1,Massilioclostridium coli,microbiome
+1,Mediterraneibacter faecis JCM 15917,microbiome
+1,Mediterraneibacter gnavus ATCC 29149,microbiome
+1,Mediterraneibacter torques,microbiome
+1,Merdimmobilis hominis,microbiome
+1,Methanobrevibacter intestini,microbiome
+1,Mogibacterium neglectum,microbiome
+1,Novisyntrophococcus fermenticellae,microbiome
+1,Oliverpabstia intestinalis,microbiome
+1,Olsenella congonensis,microbiome
+1,Oscillibacter ruminantium GH1,microbiome
+1,Owariibacterium komagatae,microbiome
+1,Paludihabitans psychrotolerans,microbiome
+1,Parabacteroides merdae,microbiome
+1,Parvimonas micra,microbiome
+1,Peptoniphilus faecalis,microbiome
+1,Peptostreptococcus anaerobius,microbiome
+1,Peptostreptococcus stomatis,microbiome
+1,Petroclostridium xylanilyticum,microbiome
+1,Phocaeicola dorei,microbiome
+1,Phocaeicola vulgatus ATCC 8482,microbiome
+1,Prauserella isguenensis,microbiome
+1,Pseudocoprococcus catus,microbiome
+1,Pseudoruminococcus massiliensis,microbiome
+1,Raoultibacter timonensis,microbiome
+1,Romboutsia sedimentorum,microbiome
+1,Romboutsia timonensis,microbiome
+1,Roseburia faecis,microbiome
+1,Roseburia hominis A2-183,microbiome
+1,Roseburia intestinalis,microbiome
+1,Roseburia inulinivorans DSM 16841,microbiome
+1,Roseburia porci,microbiome
+1,Rothia mucilaginosa,microbiome
+1,Ructibacterium gallinarum,microbiome
+1,Ruminiclostridium herbifermentans,microbiome
+1,Ruminococcoides bili,microbiome
+1,Ruminococcus callidus,microbiome
+1,Ruminococcus champanellensis 18P13 = JCM 17042,microbiome
+1,Ruthenibacterium lactatiformans,microbiome
+1,Saccharofermentans acetigenes,microbiome
+1,Segatella copri DSM 18205,microbiome
+1,Senegalimassilia anaerobia JC110,microbiome
+1,Solibaculum mannosilyticum,microbiome
+1,Sporobacter termitidis,microbiome
+1,Succinivibrio dextrinosolvens,microbiome
+1,Thomasclavelia ramosa,microbiome
+1,Velocimicrobium porci,microbiome
+1,Vescimonas coprocola,microbiome
+1,Vescimonas fastidiosa,microbiome
+1,Waltera intestinalis,microbiome
+1,Wansuia hejianensis,microbiome
+1,[Bacteroides] pectinophilus,microbiome
+1,[Clostridium] innocuum,microbiome
+1,[Clostridium] leptum,microbiome
+1,[Clostridium] methylpentosum,microbiome
+1,[Clostridium] symbiosum,microbiome
+1,[Eubacterium] siraeum,microbiome
+1,[Lactobacillus] rogosae,microbiome
+1,[Ruminococcus] lactaris ATCC 29176,microbiome
+2,Vescimonas fastidiosa,microbiome
+2,Agathobaculum desmolans,microbiome
+2,Congzhengia minquanensis,microbiome
+2,Clostridium phoceensis,microbiome
+2,Feifania hominis,microbiome
+2,Flintibacter butyricus,microbiome
+2,Ructibacterium gallinarum,microbiome
+2,Coprococcus eutactus,microbiome
+2,Parabacteroides merdae,microbiome
+2,Gemmiger formicilis,microbiome
+2,Waltera intestinalis,microbiome
+2,Solibaculum mannosilyticum,microbiome
+2,Bifidobacterium longum,microbiome
+2,Qiania dongpingensis,microbiome
+2,Parvimonas micra,microbiome
+2,Anaerobutyricum soehngenii,microbiome
+2,Mediterraneibacter gnavus ATCC 29149,microbiome
+2,Maliibacterium massiliense,microbiome
+2,Terrisporobacter petrolearius,microbiome
+2,Clostridium cadaveris,microbiome
+2,Fusobacterium canifelinum,microbiome
+2,Corynebacterium argentoratense,microbiome
+3,Abyssivirga alkaniphila,microbiome
+3,Acetanaerobacterium elongatum,microbiome
+3,Acetivibrio cellulolyticus,microbiome
+3,Acetivibrio mesophilus,microbiome
+3,Acetivibrio straminisolvens,microbiome
+3,Acidaminobacterium chupaoyuni,microbiome
+3,Actinomyces marseillensis,microbiome
+3,Acutalibacter intestini,microbiome
+3,Aestuariispira ectoiniformans,microbiome
+3,Affinirhizobium straminoryzae,microbiome
+3,Agathobacter rectalis ATCC 33656,microbiome
+3,Agathobaculum butyriciproducens,microbiome
+3,Agathobaculum desmolans,microbiome
+3,Agromyces ulmi,microbiome
+3,Akkermansia muciniphila,microbiome
+3,Alkaliphilus metalliredigens QYMF,microbiome
+3,Allobaileyella intestinalis,microbiome
+3,Allocoprococcus similis,microbiome
+3,Allofournierella massiliensis,microbiome
+3,Anaerobacterium chartisolvens,microbiome
+3,Anaerobium acetethylicum,microbiome
+3,Anaerobutyricum hallii,microbiome
+3,Anaerobutyricum soehngenii,microbiome
+3,Anaerocolumna cellulosilytica,microbiome
+3,Anaerofilum pentosovorans,microbiome
+3,Anaerofustis stercorihominis,microbiome
+3,Anaeromassilibacillus senegalensis,microbiome
+3,Anaeromicropila herbilytica,microbiome
+3,Anaerostipes hadrus,microbiome
+3,Anaerostipes hominis (ex Lee et al. 2021),microbiome
+3,Anaerotaenia torta,microbiome
+3,Anaerotignum aminivorans,microbiome
+3,Anaerotignum faecicola,microbiome
+3,Anaerotruncus colihominis,microbiome
+3,Anaerotruncus rubiinfantis,microbiome
+3,Anaerovorax odorimutans,microbiome
+3,Arcobacter nitrofigilis DSM 7299,microbiome
+3,Aristaeella hokkaidonensis,microbiome
+3,Aristaeella lactis,microbiome
+3,Bacteroides caccae,microbiome
+3,Bacteroides cutis,microbiome
+3,Bacteroides fragilis NCTC 9343,microbiome
+3,Bacteroides mediterraneensis,microbiome
+3,Bacteroides stercoris ATCC 43183,microbiome
+3,Bacteroides zhangwenhongii,microbiome
+3,Bifidobacterium adolescentis ATCC 15703,microbiome
+3,Bifidobacterium bifidum,microbiome
+3,Bifidobacterium breve DSM 20213 = JCM 1192,microbiome
+3,Bifidobacterium callitrichidarum,microbiome
+3,Bifidobacterium dentium,microbiome
+3,Bifidobacterium longum,microbiome
+3,Bifidobacterium longum subsp. suillum,microbiome
+3,Bifidobacterium pseudocatenulatum,microbiome
+3,Bittarella massiliensis (ex Durand et al. 2017),microbiome
+3,Blautia argi,microbiome
+3,Blautia caecimuris,microbiome
+3,Blautia faecicola,microbiome
+3,Blautia faecis,microbiome
+3,Blautia hominis,microbiome
+3,Blautia intestinalis,microbiome
+3,Blautia luti,microbiome
+3,Blautia obeum ATCC 29174,microbiome
+3,Blautia phocaeensis,microbiome
+3,Blautia schinkii,microbiome
+3,Blautia stercoris,microbiome
+3,Blautia wexlerae DSM 19850,microbiome
+3,Butyricicoccus faecihominis,microbiome
+3,Butyricicoccus intestinisimiae,microbiome
+3,Butyricicoccus pullicaecorum,microbiome
+3,Caloramator mitchellensis,microbiome
+3,Campylobacter jejuni subsp. jejuni ATCC 33560,microbiome
+3,Campylobacter massiliensis,microbiome
+3,Campylobacter ureolyticus DSM 20703,microbiome
+3,Candidatus Peptostreptococcus massiliensis,microbiome
+3,Canicola haemoglobinophilus,microbiome
+3,Caproicibacter fermentans,microbiome
+3,Catenibacillus scindens,microbiome
+3,Catenibacterium mitsuokai subsp. tridentinum,microbiome
+3,Christensenella massiliensis,microbiome
+3,Clostridioides difficile ATCC 9689 = DSM 1296,microbiome
+3,Clostridium cadaveris,microbiome
+3,Clostridium jeddahitimonense,microbiome
+3,Clostridium pacaense,microbiome
+3,Clostridium paraputrificum,microbiome
+3,Clostridium perfringens ATCC 13124,microbiome
+3,Clostridium phoceensis,microbiome
+3,Clostridium porci,microbiome
+3,Clostridium saudiense,microbiome
+3,Clostridium simiarum,microbiome
+3,Clostridium tertium,microbiome
+3,Colidextribacter massiliensis,microbiome
+3,Collinsella aerofaciens,microbiome
+3,Congzhengia minquanensis,microbiome
+3,Coprococcus eutactus,microbiome
+3,Coprococcus phoceensis,microbiome
+3,Corynebacterium choanae,microbiome
+3,Corynebacterium dentalis,microbiome
+3,Crassaminicella profunda,microbiome
+3,Cronobacter condimenti 1330,microbiome
+3,Cutibacterium acnes,microbiome
+3,Defluviitalea raffinosedens,microbiome
+3,Desulfovibrio desulfuricans,microbiome
+3,Desulfovibrio porci,microbiome
+3,Dialister massiliensis,microbiome
+3,Dorea longicatena,microbiome
+3,Dorea phocaeensis,microbiome
+3,Duncaniella muricolitica,microbiome
+3,Dysosmobacter acutus,microbiome
+3,Dysosmobacter welbionis,microbiome
+3,Eggerthella lenta,microbiome
+3,Eisenbergiella porci,microbiome
+3,Eisenbergiella tayi,microbiome
+3,Ellagibacter isourolithinifaciens,microbiome
+3,Elusimicrobium minutum,microbiome
+3,Emergencia timonensis,microbiome
+3,Enterocloster aldenensis,microbiome
+3,Enterocloster clostridioformis,microbiome
+3,Enterocloster lavalensis,microbiome
+3,Entomohabitans teleogrylli,microbiome
+3,Escherichia fergusonii ATCC 35469,microbiome
+3,Escherichia marmotae,microbiome
+3,Eshraghiella crossota,microbiome
+3,Ethanoligenens harbinense YUAN-3,microbiome
+3,Eubacterium coprostanoligenes,microbiome
+3,Eubacterium oxidoreducens,microbiome
+3,Eubacterium ramulus ATCC 29099,microbiome
+3,Eubacterium ventriosum,microbiome
+3,Eubacterium xylanophilum,microbiome
+3,Evtepia gabavorous,microbiome
+3,Faecalibacillus intestinalis,microbiome
+3,Faecalibacterium duncaniae,microbiome
+3,Faecalibacterium hattorii,microbiome
+3,Faecalibacterium langellae,microbiome
+3,Faecalibacterium longum,microbiome
+3,Faecalibacterium prausnitzii,microbiome
+3,Faecalicatena contorta,microbiome
+3,Faecalicatena orotica,microbiome
+3,Faecalimonas umbilicata,microbiome
+3,Falcatimonas natans,microbiome
+3,Feifania hominis,microbiome
+3,Fenollaria massiliensis,microbiome
+3,Flintibacter butyricus,microbiome
+3,Flintibacter porci,microbiome
+3,Frisingicoccus caecimuris,microbiome
+3,Fumia xinanensis,microbiome
+3,Fusicatenibacter saccharivorans,microbiome
+3,Fusobacterium animalis,microbiome
+3,Fusobacterium canifelinum,microbiome
+3,Fusobacterium hwasookii ChDC F128,microbiome
+3,Fusobacterium nucleatum,microbiome
+3,Fusobacterium nucleatum subsp. nucleatum ATCC 25586,microbiome
+3,Fusobacterium polymorphum ATCC 10953,microbiome
+3,Fusobacterium pseudoperiodonticum,microbiome
+3,Fusobacterium vincentii ATCC 51190,microbiome
+3,Fusobacterium watanabei,microbiome
+3,Gehongia tenuis,microbiome
+3,Gemella taiwanensis,microbiome
+3,Gemmiger formicilis,microbiome
+3,Gordonia hongkongensis,microbiome
+3,Guopingia tenuis,microbiome
+3,Haliplanktos anthonyquinnii,microbiome
+3,Harryflintia acetispora,microbiome
+3,Hespellia porcina,microbiome
+3,Holdemanella porci,microbiome
+3,Hominimerdicola intestinalis,microbiome
+3,Hominisplanchenecus faecis,microbiome
+3,Howardella ureilytica,microbiome
+3,Hungatella effluvii,microbiome
+3,Hungatella hathewayi,microbiome
+3,Hydrogeniiclostridium mannosilyticum,microbiome
+3,Ihubacter massiliensis,microbiome
+3,Intestinibacillus massiliensis,microbiome
+3,Intestinibacter bartlettii,microbiome
+3,Intestinimonas butyriciproducens,microbiome
+3,Intestinimonas massiliensis (ex Afouda et al. 2020),microbiome
+3,Intestinimonas timonensis,microbiome
+3,Izhakiella australiensis,microbiome
+3,Jingyaoa shaoxingensis,microbiome
+3,Jutongia hominis,microbiome
+3,Jutongia huaianensis,microbiome
+3,Kineothrix sedimenti,microbiome
+3,Lachnoanaerobaculum orale,microbiome
+3,Lachnoanaerobaculum saburreum DSM 3986,microbiome
+3,Lachnobacterium bovis,microbiome
+3,Lachnoclostridium edouardi,microbiome
+3,Lachnospira eligens ATCC 27750,microbiome
+3,Lachnospira pectinoschiza,microbiome
+3,Lachnotalea glycerini,microbiome
+3,Lactobacillus crispatus,microbiome
+3,Lancefieldella parvula DSM 20469,microbiome
+3,Lancefieldella rimae,microbiome
+3,Lawsonella clevelandensis,microbiome
+3,Lentihominibacter faecis,microbiome
+3,Lentihominibacter hominis,microbiome
+3,Lientehia hominis,microbiome
+3,Luoshenia tenuis,microbiome
+3,Lutispora thermophila DSM 19022,microbiome
+3,Maliibacterium massiliense,microbiome
+3,Marseillibacter massiliensis,microbiome
+3,Massilioclostridium coli,microbiome
+3,Massilistercora timonensis,microbiome
+3,Mediterraneibacter catenae,microbiome
+3,Mediterraneibacter faecis JCM 15917,microbiome
+3,Mediterraneibacter gnavus ATCC 29149,microbiome
+3,Mediterraneibacter torques,microbiome
+3,Megasphaera jansseni,microbiome
+3,Merdimmobilis hominis,microbiome
+3,Merdimonas faecis,microbiome
+3,Methanobrevibacter intestini,microbiome
+3,Mogibacterium kristiansenii,microbiome
+3,Murimonas intestini,microbiome
+3,Natranaerovirga pectinivora,microbiome
+3,Negativibacillus massiliensis,microbiome
+3,Nocardia coeliaca,microbiome
+3,Novisyntrophococcus fermenticellae,microbiome
+3,Oliverpabstia intestinalis,microbiome
+3,Oscillibacter ruminantium GH1,microbiome
+3,Owariibacterium komagatae,microbiome
+3,Paludihabitans psychrotolerans,microbiome
+3,Pantoea rwandensis,microbiome
+3,Parabacteroides johnsonii,microbiome
+3,Parabacteroides merdae,microbiome
+3,Parabacteroides merdae ATCC 43184,microbiome
+3,Paratractidigestivibacter faecalis,microbiome
+3,Parvimonas micra,microbiome
+3,Peptoniphilus faecalis,microbiome
+3,Peptoniphilus lacydonensis,microbiome
+3,Peptostreptococcus anaerobius,microbiome
+3,Peptostreptococcus stomatis,microbiome
+3,Petroclostridium xylanilyticum,microbiome
+3,Phocaeicola dorei,microbiome
+3,Phocaeicola massiliensis,microbiome
+3,Phocaeicola vulgatus ATCC 8482,microbiome
+3,Phyllobacterium zundukense,microbiome
+3,Pleomorphomonas koreensis,microbiome
+3,Prauserella isguenensis,microbiome
+3,Prevotella bivia,microbiome
+3,Prevotella fusca JCM 17724,microbiome
+3,Pseudocoprococcus catus,microbiome
+3,Pseudoflavonifractor gallinarum,microbiome
+3,Pseudoruminococcus massiliensis,microbiome
+3,Pusillibacter faecalis,microbiome
+3,Qiania dongpingensis,microbiome
+3,Raoultibacter timonensis,microbiome
+3,Rhodococcus pyridinivorans,microbiome
+3,Romboutsia sedimentorum,microbiome
+3,Romboutsia timonensis,microbiome
+3,Roseburia faecis,microbiome
+3,Roseburia hominis A2-183,microbiome
+3,Roseburia intestinalis,microbiome
+3,Roseburia inulinivorans DSM 16841,microbiome
+3,Roseburia lenta,microbiome
+3,Roseburia porci,microbiome
+3,Rothia mucilaginosa,microbiome
+3,Ructibacterium gallinarum,microbiome
+3,Ruminiclostridium herbifermentans,microbiome
+3,Ruminococcoides bili,microbiome
+3,Ruminococcus bromii,microbiome
+3,Ruminococcus callidus,microbiome
+3,Ruminococcus champanellensis 18P13 = JCM 17042,microbiome
+3,Ruminococcus flavefaciens,microbiome
+3,Ruminococcus sporogenes,microbiome
+3,Ruthenibacterium lactatiformans,microbiome
+3,Saccharofermentans acetigenes,microbiome
+3,Schaalia odontolytica,microbiome
+3,Segatella copri DSM 18205,microbiome
+3,Sellimonas intestinalis,microbiome
+3,Senegalimassilia anaerobia JC110,microbiome
+3,Senegalimassilia faecalis,microbiome
+3,Serratia surfactantfaciens,microbiome
+3,Simiaoa hominis,microbiome
+3,Slackia isoflavoniconvertens,microbiome
+3,Solibaculum mannosilyticum,microbiome
+3,Sporobacter termitidis,microbiome
+3,Sporofaciens musculi,microbiome
+3,Streptococcus vicugnae,microbiome
+3,Succinivibrio dextrinosolvens,microbiome
+3,Terrisporobacter petrolearius,microbiome
+3,Thermophilibacter provencensis,microbiome
+3,Thomasclavelia ramosa,microbiome
+3,Tractidigestivibacter scatoligenes,microbiome
+3,Vallitalea okinawensis,microbiome
+3,Vallitalea pronyensis,microbiome
+3,Vallitalea sediminicola,microbiome
+3,Vampirovibrio chlorellavorus,microbiome
+3,Veillonella nakazawae,microbiome
+3,Velocimicrobium porci,microbiome
+3,Vescimonas coprocola,microbiome
+3,Vescimonas fastidiosa,microbiome
+3,Victivallis lenta,microbiome
+3,Waltera intestinalis,microbiome
+3,Wansuia hejianensis,microbiome
+3,Wujia chipingensis,microbiome
+3,Yeguia hominis,microbiome
+3,Zhenhengia yiwuensis,microbiome
+3,Zhenpiania hominis,microbiome
+3,[Bacteroides] pectinophilus,microbiome
+3,[Clostridium] innocuum,microbiome
+3,[Clostridium] leptum,microbiome
+3,[Clostridium] methylpentosum,microbiome
+3,[Clostridium] polysaccharolyticum,microbiome
+3,[Clostridium] scindens,microbiome
+3,[Clostridium] symbiosum,microbiome
+3,[Eubacterium] siraeum,microbiome
+3,[Lactobacillus] rogosae,microbiome
+3,[Ruminococcus] lactaris ATCC 29176,microbiome
+4,Abyssivirga alkaniphila,microbiome
+4,Acetanaerobacterium elongatum,microbiome
+4,Acidaminobacterium chupaoyuni,microbiome
+4,Agathobacter rectalis ATCC 33656,microbiome
+4,Agathobaculum butyriciproducens,microbiome
+4,Agathobaculum desmolans,microbiome
+4,Akkermansia muciniphila,microbiome
+4,Alkaliphilus metalliredigens QYMF,microbiome
+4,Allobaileyella intestinalis,microbiome
+4,Allocoprococcus similis,microbiome
+4,Anaerobacterium chartisolvens,microbiome
+4,Anaerobium acetethylicum,microbiome
+4,Anaerobutyricum hallii,microbiome
+4,Anaerobutyricum soehngenii,microbiome
+4,Anaerostipes hadrus,microbiome
+4,Anaerotignum faecicola,microbiome
+4,Anaerotruncus colihominis,microbiome
+4,Anaerotruncus rubiinfantis,microbiome
+4,Anaerovorax odorimutans,microbiome
+4,Aristaeella hokkaidonensis,microbiome
+4,Aristaeella lactis,microbiome
+4,Bacteroides caccae,microbiome
+4,Bacteroides fragilis NCTC 9343,microbiome
+4,Bifidobacterium adolescentis ATCC 15703,microbiome
+4,Bifidobacterium longum,microbiome
+4,Bifidobacterium pseudocatenulatum,microbiome
+4,Blautia faecis,microbiome
+4,Blautia intestinalis,microbiome
+4,Blautia luti,microbiome
+4,Blautia obeum ATCC 29174,microbiome
+4,Blautia wexlerae DSM 19850,microbiome
+4,Butyricicoccus intestinisimiae,microbiome
+4,Candidatus Peptostreptococcus massiliensis,microbiome
+4,Clostridium cadaveris,microbiome
+4,Clostridium jeddahitimonense,microbiome
+4,Clostridium perfringens ATCC 13124,microbiome
+4,Clostridium phoceensis,microbiome
+4,Clostridium porci,microbiome
+4,Clostridium saudiense,microbiome
+4,Colidextribacter massiliensis,microbiome
+4,Collinsella aerofaciens,microbiome
+4,Congzhengia minquanensis,microbiome
+4,Coprococcus eutactus,microbiome
+4,Corynebacterium choanae,microbiome
+4,Corynebacterium dentalis,microbiome
+4,Cutibacterium acnes,microbiome
+4,Dorea longicatena,microbiome
+4,Dorea phocaeensis,microbiome
+4,Duncaniella muricolitica,microbiome
+4,Dysosmobacter acutus,microbiome
+4,Dysosmobacter welbionis,microbiome
+4,Eggerthella lenta,microbiome
+4,Eisenbergiella tayi,microbiome
+4,Enterocloster clostridioformis,microbiome
+4,Escherichia marmotae,microbiome
+4,Eshraghiella crossota,microbiome
+4,Eubacterium coprostanoligenes,microbiome
+4,Eubacterium ramulus ATCC 29099,microbiome
+4,Eubacterium ventriosum,microbiome
+4,Evtepia gabavorous,microbiome
+4,Faecalibacterium duncaniae,microbiome
+4,Faecalibacterium langellae,microbiome
+4,Faecalibacterium longum,microbiome
+4,Faecalibacterium prausnitzii,microbiome
+4,Faecalicatena contorta,microbiome
+4,Feifania hominis,microbiome
+4,Flintibacter butyricus,microbiome
+4,Frisingicoccus caecimuris,microbiome
+4,Fusicatenibacter saccharivorans,microbiome
+4,Fusobacterium animalis,microbiome
+4,Fusobacterium canifelinum,microbiome
+4,Fusobacterium hwasookii ChDC F128,microbiome
+4,Fusobacterium nucleatum,microbiome
+4,Fusobacterium vincentii ATCC 51190,microbiome
+4,Fusobacterium watanabei,microbiome
+4,Gehongia tenuis,microbiome
+4,Gemmiger formicilis,microbiome
+4,Gordonia hongkongensis,microbiome
+4,Guopingia tenuis,microbiome
+4,Hominimerdicola intestinalis,microbiome
+4,Hominisplanchenecus faecis,microbiome
+4,Howardella ureilytica,microbiome
+4,Hungatella effluvii,microbiome
+4,Hungatella hathewayi,microbiome
+4,Ihubacter massiliensis,microbiome
+4,Intestinibacillus massiliensis,microbiome
+4,Intestinibacter bartlettii,microbiome
+4,Intestinimonas butyriciproducens,microbiome
+4,Intestinimonas massiliensis (ex Afouda et al. 2020),microbiome
+4,Intestinimonas timonensis,microbiome
+4,Izhakiella australiensis,microbiome
+4,Jingyaoa shaoxingensis,microbiome
+4,Jutongia hominis,microbiome
+4,Kineothrix sedimenti,microbiome
+4,Lachnoclostridium edouardi,microbiome
+4,Lachnospira eligens ATCC 27750,microbiome
+4,Lachnospira pectinoschiza,microbiome
+4,Lawsonella clevelandensis,microbiome
+4,Lentihominibacter hominis,microbiome
+4,Luoshenia tenuis,microbiome
+4,Lutispora thermophila DSM 19022,microbiome
+4,Marseillibacter massiliensis,microbiome
+4,Massilioclostridium coli,microbiome
+4,Mediterraneibacter faecis JCM 15917,microbiome
+4,Mediterraneibacter gnavus ATCC 29149,microbiome
+4,Mediterraneibacter torques,microbiome
+4,Merdimmobilis hominis,microbiome
+4,Methanobrevibacter intestini,microbiome
+4,Mogibacterium kristiansenii,microbiome
+4,Murimonas intestini,microbiome
+4,Natranaerovirga pectinivora,microbiome
+4,Novisyntrophococcus fermenticellae,microbiome
+4,Oscillibacter ruminantium GH1,microbiome
+4,Owariibacterium komagatae,microbiome
+4,Parabacteroides merdae,microbiome
+4,Parvimonas micra,microbiome
+4,Peptoniphilus faecalis,microbiome
+4,Peptostreptococcus anaerobius,microbiome
+4,Phocaeicola vulgatus ATCC 8482,microbiome
+4,Prauserella isguenensis,microbiome
+4,Pseudocoprococcus catus,microbiome
+4,Raoultibacter timonensis,microbiome
+4,Romboutsia sedimentorum,microbiome
+4,Romboutsia timonensis,microbiome
+4,Roseburia faecis,microbiome
+4,Roseburia hominis A2-183,microbiome
+4,Roseburia intestinalis,microbiome
+4,Roseburia inulinivorans DSM 16841,microbiome
+4,Roseburia lenta,microbiome
+4,Rothia mucilaginosa,microbiome
+4,Ructibacterium gallinarum,microbiome
+4,Ruminococcoides bili,microbiome
+4,Ruminococcus bromii,microbiome
+4,Ruminococcus callidus,microbiome
+4,Ruthenibacterium lactatiformans,microbiome
+4,Senegalimassilia anaerobia JC110,microbiome
+4,Senegalimassilia faecalis,microbiome
+4,Simiaoa hominis,microbiome
+4,Solibaculum mannosilyticum,microbiome
+4,Sporobacter termitidis,microbiome
+4,Tractidigestivibacter scatoligenes,microbiome
+4,Vampirovibrio chlorellavorus,microbiome
+4,Velocimicrobium porci,microbiome
+4,Vescimonas coprocola,microbiome
+4,Vescimonas fastidiosa,microbiome
+4,Waltera intestinalis,microbiome
+4,[Clostridium] innocuum,microbiome
+4,[Clostridium] leptum,microbiome
+4,[Clostridium] methylpentosum,microbiome
+4,[Clostridium] symbiosum,microbiome
+4,[Eubacterium] siraeum,microbiome
+4,[Lactobacillus] rogosae,microbiome
+5,Abyssivirga alkaniphila,microbiome
+5,Acetanaerobacterium elongatum,microbiome
+5,Acidaminobacterium chupaoyuni,microbiome
+5,Actinomyces marseillensis,microbiome
+5,Agathobacter rectalis ATCC 33656,microbiome
+5,Agathobaculum butyriciproducens,microbiome
+5,Agathobaculum desmolans,microbiome
+5,Akkermansia muciniphila,microbiome
+5,Alkaliphilus metalliredigens QYMF,microbiome
+5,Allocoprococcus similis,microbiome
+5,Anaerobacterium chartisolvens,microbiome
+5,Anaerobium acetethylicum,microbiome
+5,Anaerobutyricum hallii,microbiome
+5,Anaerobutyricum soehngenii,microbiome
+5,Anaerofustis stercorihominis,microbiome
+5,Anaeromassilibacillus senegalensis,microbiome
+5,Anaerostipes faecalis,microbiome
+5,Anaerostipes hadrus,microbiome
+5,Anaerotignum faecicola,microbiome
+5,Anaerotruncus colihominis,microbiome
+5,Anaerotruncus rubiinfantis,microbiome
+5,Anaerovorax odorimutans,microbiome
+5,Aristaeella hokkaidonensis,microbiome
+5,Aristaeella lactis,microbiome
+5,Bacteroides caccae,microbiome
+5,Bifidobacterium longum,microbiome
+5,Bifidobacterium pseudocatenulatum,microbiome
+5,Bittarella massiliensis (ex Durand et al. 2017),microbiome
+5,Blautia faecis,microbiome
+5,Blautia intestinalis,microbiome
+5,Blautia luti,microbiome
+5,Blautia obeum ATCC 29174,microbiome
+5,Blautia phocaeensis,microbiome
+5,Blautia stercoris,microbiome
+5,Blautia wexlerae DSM 19850,microbiome
+5,Butyricicoccus intestinisimiae,microbiome
+5,Candidatus Peptostreptococcus massiliensis,microbiome
+5,Clostridium jeddahitimonense,microbiome
+5,Clostridium paraputrificum,microbiome
+5,Clostridium perfringens ATCC 13124,microbiome
+5,Clostridium phoceensis,microbiome
+5,Clostridium porci,microbiome
+5,Clostridium saudiense,microbiome
+5,Colidextribacter massiliensis,microbiome
+5,Collinsella aerofaciens,microbiome
+5,Congzhengia minquanensis,microbiome
+5,Coprococcus eutactus,microbiome
+5,Coprococcus phoceensis,microbiome
+5,Corynebacterium choanae,microbiome
+5,Corynebacterium dentalis,microbiome
+5,Cutibacterium acnes,microbiome
+5,Dialister massiliensis,microbiome
+5,Dorea longicatena,microbiome
+5,Dorea phocaeensis,microbiome
+5,Duncaniella muricolitica,microbiome
+5,Dysosmobacter welbionis,microbiome
+5,Eggerthella lenta,microbiome
+5,Eikenella corrodens,microbiome
+5,Eisenbergiella tayi,microbiome
+5,Enterocloster aldenensis,microbiome
+5,Enterocloster clostridioformis,microbiome
+5,Escherichia marmotae,microbiome
+5,Eshraghiella crossota,microbiome
+5,Eubacterium coprostanoligenes,microbiome
+5,Eubacterium ramulus ATCC 29099,microbiome
+5,Eubacterium xylanophilum,microbiome
+5,Evtepia gabavorous,microbiome
+5,Faecalibacillus intestinalis,microbiome
+5,Faecalibacterium duncaniae,microbiome
+5,Faecalibacterium hattorii,microbiome
+5,Faecalibacterium langellae,microbiome
+5,Faecalibacterium longum,microbiome
+5,Faecalibacterium prausnitzii,microbiome
+5,Faecalicatena contorta,microbiome
+5,Faecalicatena orotica,microbiome
+5,Faecalimonas hominis,microbiome
+5,Feifania hominis,microbiome
+5,Flintibacter butyricus,microbiome
+5,Fusicatenibacter saccharivorans,microbiome
+5,Fusobacterium animalis,microbiome
+5,Fusobacterium canifelinum,microbiome
+5,Fusobacterium hwasookii ChDC F128,microbiome
+5,Fusobacterium nucleatum,microbiome
+5,Fusobacterium vincentii ATCC 51190,microbiome
+5,Fusobacterium watanabei,microbiome
+5,Gehongia tenuis,microbiome
+5,Gemmiger formicilis,microbiome
+5,Gordonia hongkongensis,microbiome
+5,Guopingia tenuis,microbiome
+5,Hespellia porcina,microbiome
+5,Hominimerdicola intestinalis,microbiome
+5,Hominisplanchenecus faecis,microbiome
+5,Howardella ureilytica,microbiome
+5,Hungatella effluvii,microbiome
+5,Hungatella hathewayi,microbiome
+5,Ihubacter massiliensis,microbiome
+5,Intestinibacter bartlettii,microbiome
+5,Intestinimonas butyriciproducens,microbiome
+5,Intestinimonas massiliensis (ex Afouda et al. 2020),microbiome
+5,Izhakiella australiensis,microbiome
+5,Jingyaoa shaoxingensis,microbiome
+5,Jutongia hominis,microbiome
+5,Kineothrix sedimenti,microbiome
+5,Klebsiella pneumoniae,microbiome
+5,Lachnobacterium bovis,microbiome
+5,Lachnoclostridium edouardi,microbiome
+5,Lachnospira eligens ATCC 27750,microbiome
+5,Lachnotalea glycerini,microbiome
+5,Lawsonella clevelandensis,microbiome
+5,Leptotrichia buccalis,microbiome
+5,Luoshenia tenuis,microbiome
+5,Marseillibacter massiliensis,microbiome
+5,Massilioclostridium coli,microbiome
+5,Mediterraneibacter faecis JCM 15917,microbiome
+5,Mediterraneibacter gnavus ATCC 29149,microbiome
+5,Mediterraneibacter torques,microbiome
+5,Merdimmobilis hominis,microbiome
+5,Methanobrevibacter intestini,microbiome
+5,Mogibacterium neglectum,microbiome
+5,Novisyntrophococcus fermenticellae,microbiome
+5,Oliverpabstia intestinalis,microbiome
+5,Olsenella congonensis,microbiome
+5,Oscillibacter ruminantium GH1,microbiome
+5,Owariibacterium komagatae,microbiome
+5,Paludihabitans psychrotolerans,microbiome
+5,Parabacteroides merdae,microbiome
+5,Parvimonas micra,microbiome
+5,Peptoniphilus faecalis,microbiome
+5,Peptostreptococcus anaerobius,microbiome
+5,Peptostreptococcus stomatis,microbiome
+5,Petroclostridium xylanilyticum,microbiome
+5,Phocaeicola dorei,microbiome
+5,Phocaeicola vulgatus ATCC 8482,microbiome
+5,Prauserella isguenensis,microbiome
+5,Pseudocoprococcus catus,microbiome
+5,Pseudoruminococcus massiliensis,microbiome
+5,Raoultibacter timonensis,microbiome
+5,Romboutsia sedimentorum,microbiome
+5,Romboutsia timonensis,microbiome
+5,Roseburia faecis,microbiome
+5,Roseburia hominis A2-183,microbiome
+5,Roseburia intestinalis,microbiome
+5,Roseburia inulinivorans DSM 16841,microbiome
+5,Roseburia porci,microbiome
+5,Rothia mucilaginosa,microbiome
+5,Ructibacterium gallinarum,microbiome
+5,Ruminiclostridium herbifermentans,microbiome
+5,Ruminococcoides bili,microbiome
+5,Ruminococcus callidus,microbiome
+5,Ruminococcus champanellensis 18P13 = JCM 17042,microbiome
+5,Ruthenibacterium lactatiformans,microbiome
+5,Saccharofermentans acetigenes,microbiome
+5,Segatella copri DSM 18205,microbiome
+5,Senegalimassilia anaerobia JC110,microbiome
+5,Solibaculum mannosilyticum,microbiome
+5,Sporobacter termitidis,microbiome
+5,Succinivibrio dextrinosolvens,microbiome
+5,Thomasclavelia ramosa,microbiome
+5,Velocimicrobium porci,microbiome
+5,Vescimonas coprocola,microbiome
+5,Vescimonas fastidiosa,microbiome
+5,Waltera intestinalis,microbiome
+5,Wansuia hejianensis,microbiome
+5,[Bacteroides] pectinophilus,microbiome
+5,[Clostridium] innocuum,microbiome
+5,[Clostridium] leptum,microbiome
+5,[Clostridium] methylpentosum,microbiome
+5,[Clostridium] symbiosum,microbiome
+5,[Eubacterium] siraeum,microbiome
+5,[Lactobacillus] rogosae,microbiome
+5,[Ruminococcus] lactaris ATCC 29176,microbiome
+5,Age,demographic
+5,Sex,demographic

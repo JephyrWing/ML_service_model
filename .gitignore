@@ -1,0 +1,61 @@
+# Environments, temporary analysis tooling and caches
+.venv/
+venv/
+.analysis_tools/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+**/pipeline_cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Secrets and editor-local files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+
+# Original datasets and repeated experiment backups
+dataset/*
+!dataset/README.md
+backup/
+outputs/backups/
+outputs/validation/
+*.log
+
+# Publish only curated aggregate evidence and the sanitized inference bundle.
+outputs/*
+!outputs/simple_oob/
+outputs/simple_oob/*
+!outputs/simple_oob/1_model.joblib
+!outputs/simple_oob/run_manifest.json
+!outputs/simple_oob/verification_summary.json
+!outputs/simple_oob/sanitization_verification.json
+!outputs/simple_oob/figures/
+!outputs/simple_oob/experiment_results.csv
+!outputs/simple_oob/evaluation_comparison.csv
+!outputs/simple_oob/test_metrics.csv
+!outputs/simple_oob/test_class_reports.csv
+!outputs/simple_oob/cv_fold_comparison.csv
+!outputs/simple_oob/cv_feature_selection_audit.csv
+!outputs/simple_oob/gridsearch_*.csv
+!outputs/simple_oob/correlation_*.csv
+!outputs/simple_oob/importance_*.csv
+!outputs/simple_oob/important_feature_annotation.csv
+!outputs/simple_oob/train_feature_importance.csv
+!outputs/simple_oob/train_feature_target_correlation.csv
+!outputs/simple_oob/vif_2.csv
+!outputs/simple_oob/selected_features*.csv
+!outputs/simple_oob/scientific_name_features.csv
+
+# Archives and installer bundles
+*.zip
+*.7z
+*.rar
+*.nupkg

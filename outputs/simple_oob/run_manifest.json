@@ -1,0 +1,160 @@
+{
+  "seed": 42,
+  "test_size": 0.3,
+  "train_test_ratio": "7:3",
+  "stratify_column": "DiseaseStatus",
+  "n_train": 41,
+  "n_test": 18,
+  "experiments": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "cv_splits": 5,
+  "experiment1_cv_options": [
+    3,
+    5,
+    7
+  ],
+  "experiment1_selected_cv": 5,
+  "cv_selection_rule": "CV F1 descending, feature count ascending, fold count ascending",
+  "classification_task": "Normal_vs_CRC",
+  "class_names": [
+    "Normal",
+    "CRC"
+  ],
+  "class_weight": "balanced",
+  "positive_class": "CRC",
+  "target_mapping": {
+    "Healthy": "Normal",
+    "Adenomatous Polyps": "Normal",
+    "Colorectal cancer": "CRC"
+  },
+  "n_samples": 59,
+  "n_raw_asvs": 6693,
+  "n_blast_matched_asvs": 5846,
+  "n_scientific_name_features": 477,
+  "n_scaler_input_columns": 478,
+  "normalization_only_columns": [
+    "unmatched_reads"
+  ],
+  "aggregation_uses_target": false,
+  "feature_aggregation_rule": "sum all matched ASV reads by subject_scientific_name",
+  "param_grid": {
+    "rf__max_depth": [
+      null,
+      5,
+      10
+    ],
+    "rf__min_samples_leaf": [
+      1,
+      2
+    ],
+    "rf__max_features": [
+      "sqrt",
+      "log2"
+    ]
+  },
+  "refit_metric": "f1",
+  "max_refinement_rounds": 6,
+  "completed_refinement_rounds": 3,
+  "total_refinement_rounds": 7,
+  "selected_importance_search_round": 2,
+  "selected_importance_quartile": "Q2/Q3",
+  "selected_importance_cutoff_train": 0.0010088047223296478,
+  "importance_search_stop_reason": "CV F1 개선 없음",
+  "scaler_type": "Normalizer",
+  "scaler_norm": "l1",
+  "scaler_file": "final_scaler.joblib",
+  "feature_selection_within_cv": {
+    "1": true,
+    "2": true,
+    "3": true,
+    "4": true,
+    "5": true
+  },
+  "importance_cutoff_within_cv": true,
+  "vif_selection_within_cv": {
+    "2": true
+  },
+  "correlation_selection_within_cv": {
+    "3": true,
+    "4": true
+  },
+  "correlation_method": "spearman",
+  "correlation_threshold": 0.95,
+  "correlation_selection_uses_target": false,
+  "evaluation_phases": [
+    "CV",
+    "OOB",
+    "Test"
+  ],
+  "training_metrics_computed": false,
+  "cv_scope": "internal tuning with foldwise feature selection",
+  "oob_scope": "reference after full-Train feature selection",
+  "vif_threshold": 5.0,
+  "selected_experiment": "1",
+  "selection_order": {
+    "1": [
+      "importance"
+    ],
+    "2": [
+      "vif"
+    ],
+    "3": [
+      "constant",
+      "correlation"
+    ],
+    "4": [
+      "constant",
+      "correlation",
+      "importance"
+    ],
+    "5": [
+      "importance",
+      "append_demographics"
+    ]
+  },
+  "experiment4_importance_path_source": "experiment1 selected quartile path",
+  "experiment4_importance_cutoff_scope": "computed after correlation removal within each training fold",
+  "experiment5_demographic_columns": [
+    "Age",
+    "Sex"
+  ],
+  "experiment5_sex_mapping": {
+    "female": 0,
+    "male": 1
+  },
+  "experiment5_age_transform": "passthrough",
+  "experiment5_scaler_file": "5_scaler.joblib",
+  "experiment5_demographics_in_normalization": false,
+  "experiment5_demographics_in_feature_selection": false,
+  "streamlit_model_selection": "1",
+  "test_reevaluated": true,
+  "exported_model_requires_custom_selector": false,
+  "test_evaluation_requested_by_user": true,
+  "test_evaluation_scope": "fixed Test split of 18 patients; model comparison",
+  "test_evaluated_experiments": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "test_sample_count": 18,
+  "test_model_selection_performed": false,
+  "model_selection_source": "user",
+  "selected_model_file": "1_model.joblib",
+  "public_export": {
+    "patient_identifier_lists_removed": true,
+    "removed_fields": [
+      "train_samples",
+      "test_samples"
+    ],
+    "original_local_manifest_preserved": true,
+    "model_retrained_for_publication": false,
+    "note": "공개본에서 환자별 샘플 식별자 목록만 제외했습니다. 원본 로컬 기록은 보존했고 기존 실험 수치와 모델 선택 기록은 변경하지 않았습니다."
+  }
+}
